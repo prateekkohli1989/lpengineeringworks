@@ -883,11 +883,11 @@ th {
 .glyphicon-tree-deciduous:before {
   content: "\e200";
 }
-* {
+/* * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
-}
+} */
 *:before,
 *:after {
   -webkit-box-sizing: border-box;
@@ -3943,7 +3943,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   height: 50px;
-  padding: 15px 15px;
+  padding: 55px 55px;
   font-size: 18px;
   line-height: 20px;
 }
